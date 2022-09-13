@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Login</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="bank_logo">bank logo</string>
+    <string name="login">Login</string>
+    <string name="error_username">The username is invalid</string>
+    <string name="error_password">The password is invalid</string>
+</resources>
